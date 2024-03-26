@@ -11,7 +11,7 @@ class Program
         string name = "Linhan Fan (Kannmu)";
         string university = "Southeast University";
         string department = "Industrial Design Department / Design Studies";
-        string supervisor = "[Yaofeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm)";
+        string supervisor = "[Yafeng Niu](https://me.seu.edu.cn/nyf_31777/list.htm)";
         string[] hobbies = { "Photography", "Gaming", "Hiking", "Jogging" };
 
         // Experiences
